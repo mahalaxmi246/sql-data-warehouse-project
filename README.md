@@ -16,7 +16,8 @@ It’s built as a **portfolio project**, showing real-world best practices in:
 
 This project follows the **Medallion Architecture** approach with **Bronze**, **Silver**, and **Gold** layers:
 
-![Data Architecture](docs/data_architecture.png)
+![Data Architecture]<img width="1038" height="534" alt="image" src="https://github.com/user-attachments/assets/a02d16c8-03c1-44c3-87ff-2eb7dcd10be8" />
+
 
 ### 🔸 Bronze Layer (Raw)
 - Stores raw data exactly as received from source systems
