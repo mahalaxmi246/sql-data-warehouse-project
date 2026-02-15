@@ -16,7 +16,10 @@ It’s built as a **portfolio project**, showing real-world best practices in:
 
 This project follows the **Medallion Architecture** approach with **Bronze**, **Silver**, and **Gold** layers:
 
-<img width="1038" height="534" alt="Data Architecture" src="https://github.com/user-attachments/assets/a02d16c8-03c1-44c3-87ff-2eb7dcd10be8" />
+<img width="1100" alt="Medallion Architecture" src="docs/data_architecture_dwhproject.png" />
+
+> Diagram reference: DataWithBaraa tutorial resources (used for learning/portfolio documentation).
+
 
 ### 🔸 Bronze Layer (Raw)
 - Stores raw data exactly as received from source systems
