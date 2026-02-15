@@ -142,6 +142,7 @@ data-warehouse-project/
 ├── .gitignore                          # Ignored files for Git
 └── requirements.txt                    # Dependencies
 ```
+---
 ## 📊 SQL Analytics Report
 
 This repository includes a set of SQL queries built on the Gold Layer to generate business insights such as:
@@ -153,6 +154,8 @@ This repository includes a set of SQL queries built on the Gold Layer to generat
 
 You can find the script here:  
 [reports/gold_summary_report.sql](reports/gold_summary_report.sql)
+
+---
 
 
 ## 🛡️ License
