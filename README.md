@@ -156,13 +156,17 @@ You can find the script here:
 [reports/gold_summary_report.sql](reports/gold_summary_report.sql)
 
 ---
+## 🙏 Credits
 
+This project was built as a learning + portfolio implementation inspired by the **DataWithBaraa** Data Warehouse tutorial.
+
+Datasets and reference diagrams were provided through the tutorial resources.
+
+---
 
 ## 🛡️ License
 
 This project is licensed under the **MIT License**.
-
-> **Note:** Since the datasets and learning resources were provided through the **DataWithBaraa** tutorial materials, proper credit is included in this repository.
 
 ---
 ## 👩‍💻 About Me
