@@ -16,8 +16,7 @@ It’s built as a **portfolio project**, showing real-world best practices in:
 
 This project follows the **Medallion Architecture** approach with **Bronze**, **Silver**, and **Gold** layers:
 
-![Data Architecture]<img width="1038" height="534" alt="image" src="https://github.com/user-attachments/assets/a02d16c8-03c1-44c3-87ff-2eb7dcd10be8" />
-
+<img width="1038" height="534" alt="Data Architecture" src="https://github.com/user-attachments/assets/a02d16c8-03c1-44c3-87ff-2eb7dcd10be8" />
 
 ### 🔸 Bronze Layer (Raw)
 - Stores raw data exactly as received from source systems
@@ -82,7 +81,6 @@ All tools used are free:
 - **SQL Server Management Studio (SSMS)** (GUI)
 - **Draw.io** (Architecture + Modeling diagrams)
 - **GitHub** (Version control + portfolio)
-- **Notion** (Project planning template)
 
 ---
 
@@ -142,36 +140,20 @@ data-warehouse-project/
 └── requirements.txt                    # Dependencies
 ```
 
----
-
-## 📌 How to Run This Project (Quick Steps)
-
-1. Install **SQL Server Express**
-2. Install **SQL Server Management Studio (SSMS)**
-3. Create a new database
-4. Run scripts in this order:
-   - `scripts/bronze/`
-   - `scripts/silver/`
-   - `scripts/gold/`
-5. Run analytics queries to generate insights
-
----
-
 ## 🛡️ License
 
-This project is licensed under the **MIT License**.  
-You are free to use, modify, and share it with proper attribution.
+This project is licensed under the **MIT License**.
+
+> **Note:** Since the datasets and learning resources were provided through the **DataWithBaraa** tutorial materials, proper credit is included in this repository.
 
 ---
-
 ## 👩‍💻 About Me
 
-Hi! I’m **Mahalaxmi Somisetty**, an Information Technology student passionate about:
+Hi! I’m **Mahalaxmi Somisetty**, an Information Technology student with a strong interest in:
 
 - Data Engineering  
 - SQL Development  
 - Data Warehousing  
 - Analytics and Reporting  
 
-This project is part of my learning and portfolio journey toward data roles.
----
+I enjoy building structured projects that simulate real-world workflows, and this repository is part of my learning + portfolio journey toward data roles.
