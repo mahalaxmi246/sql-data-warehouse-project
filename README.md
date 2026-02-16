@@ -143,6 +143,61 @@ data-warehouse-project/
 └── requirements.txt                    # Dependencies
 ```
 ---
+
+## 🔎 Exploratory Data Analysis (EDA)
+
+This project includes a structured set of SQL scripts for **Exploratory Data Analysis (EDA)** on the Gold Layer.
+
+These scripts cover:
+
+- Database exploration (schemas, tables, columns)
+- Dimension exploration (countries, categories, subcategories)
+- Date range and historical coverage
+- Key measures (sales, quantity, customers, products)
+- Magnitude analysis
+- Ranking analysis
+
+📌 Folder:  
+`exploratory_data_analysis/`
+
+Scripts included:
+
+- `01_database_exploration.sql`
+- `02_dimensions_exploration.sql`
+- `03_date_range_exploration.sql`
+- `04_measures_exploration.sql`
+- `05_magnitude_analysis.sql`
+- `06_ranking_analysis.sql`
+
+---
+
+## 📈 Advanced Data Analytics
+
+This project also includes advanced analytical SQL scripts for deeper business insights.
+
+These scripts cover:
+
+- Change over time trends
+- Cumulative analysis (running totals, moving averages)
+- Performance analysis (YoY comparisons)
+- Customer segmentation
+- Part-to-whole contribution analysis
+- Business-ready reporting views (Customer + Product reports)
+
+📌 Folder:  
+`advanced_data_analytics/`
+
+Scripts included:
+
+- `07_change_over_time_analysis.sql`
+- `08_cumulative_analysis.sql`
+- `09_performance_analysis.sql`
+- `10_data_segmentation.sql`
+- `11_part_to_whole_analysis.sql`
+- `12_report_customers.sql`
+- `13_report_products.sql`
+
+---
 ## 📊 SQL Analytics Report
 
 This repository includes a set of SQL queries built on the Gold Layer to generate business insights such as:
