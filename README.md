@@ -228,7 +228,7 @@ This project is licensed under the **MIT License**.
 
 Hi! I’m **Mahalaxmi Somisetty**, an Information Technology student with a strong interest in:
 
-- Data Engineering  
+ 
 - SQL Development  
 - Data Warehousing  
 - Analytics and Reporting  
